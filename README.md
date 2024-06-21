@@ -1,5 +1,6 @@
 # Manage-Landing-Page
 This is a frontend mentor challenge 
+Developed using Tailwind CSS
 
 ### Desktop Design :
   ![image](https://github.com/JeremiahRanen7/Manage-Landing-Page/assets/141173239/95c1939a-100b-4b35-b2ab-927f3fefe20d)
